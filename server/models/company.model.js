@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 
 
-//Company Schema
 
 const companySchema = new mongoose.Schema({
     name:{
